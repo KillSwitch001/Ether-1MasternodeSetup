@@ -140,4 +140,4 @@ If you found this setup guide helpful...
 
 ...please donate Ether-1/ETHO to: 0xF46E2D0D6aEb0acf4e203BB07d9b76E0C8a106c0
 
--Author: KillSwitch
+-KillSwitch
