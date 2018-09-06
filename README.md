@@ -51,3 +51,34 @@ adduser ether1node sudo
 adduser ether1node systemd-journal
 ```
 You can now disconnect and re-login to your VPS with the newly created login and finish up with some additional house-cleaning:
+```
+sudo apt-get update
+```
+We will now download the Ether-1 Masternode/Service Node binary and create a system service to run the node:
+```
+sudo wget -N https://ether1.org/scripts/debian/setup.sh
+```
+**Now update file permissions and run script**
+```
+sudo chmod +x setup.sh
+sudo ./setup.sh
+```
+*You may need to verify credentials by typing in your login password when script finishes setting up new system service
+
+**Firewall configurations may vary but you will need to allow all traffic on ports 22 (SSH access) and 30305 (node traffic)
+
+**Your node should now be installed/connected**
+
+To view the status of the Ether-1 node:
+```
+sudo systemctl status ether1node
+```
+or
+```
+sudo journalctl --unit=ether1node -f
+```
+
+After syncing is complete, you will see the Masternode/Service Node connection note below
+![Image of NodeConnected]
+(https://nodes.ether1.org/images/nodeconnected.png)
+
