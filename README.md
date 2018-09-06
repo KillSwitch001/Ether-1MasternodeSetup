@@ -7,6 +7,9 @@ If you require further assistance contact the support team @ [Discord](https://d
 The following video will walk you through the basics of setting up a VPS with Vultr. Most VPS service are similar but it is important to understand how to do it before moving forward: [Setting Up a VPS With Vultr](https://www.youtube.com/watch?v=jsP3K0D6ONE)
 
 
+
+
+
 **Minimum VPS Requirements:**
 
 **Masternode**
@@ -43,6 +46,9 @@ Service Node - 5000 ETHO*
 Masternode - 15000 ETHO*
 
 *Please note that you will need slightly more than required stake to send verification transaction (0.01 ETHO)
+
+
+
 
 
 **ETHER-1 MASTERNODE/SERVICE NODE DEBIAN/UBUNTU SETUP TUTORIAL**
