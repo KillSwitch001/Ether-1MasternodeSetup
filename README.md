@@ -76,3 +76,10 @@ Cabinet of users.ether1.org
 Cabinet of users.ether1.org
 
 Master is set up!
+
+Ether-1 website https://ether1.org/
+VPS https://my.vultr.com/
+Setup https://telegra.ph/Sozdanie-masternody-ETHO-Ether-1-07-11
+Putty https://www.putty.org/
+Wallet https://wallet.ether1.org/
+Exchenge coin https://app.stocks.exchange/
