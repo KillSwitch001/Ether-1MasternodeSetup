@@ -80,6 +80,5 @@ sudo journalctl --unit=ether1node -f
 
 After syncing is complete, you will see the Masternode/Service Node connection note below
 
-![Image of NodeConnected]
-(https://nodes.ether1.org/images/nodeconnected.png)
+![Image of NodeConnected](https://nodes.ether1.org/images/nodeconnected.png)
 
