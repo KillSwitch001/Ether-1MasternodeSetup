@@ -13,10 +13,8 @@ The following video will walk you through the basics of setting up a VPS with Vu
 **Minimum VPS Requirements:**
 
 **Masternode**
-
-40GB of available storage
-
-2GB of ram
+- 40GB of available storage
+- 2GB of ram
 
 Public Static IP address
 
