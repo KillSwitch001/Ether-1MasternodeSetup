@@ -17,29 +17,22 @@ The following video will walk you through the basics of setting up a VPS with Vu
 
 
 **Service Node**
-20GB of available storage
-
-1GB of ram
-
-Public Static IP address
+- 20GB of available storage
+- 1GB of ram
+- Public Static IP address
 
 
-**Recomended VPS Services:**
-
-[Vultr](https://www.vultr.com/?ref=7455585)
-
-
-**Recommended OS:**
-
-Ubuntu 16.04
+**Recomended VPS Services**
+- [Vultr](https://www.vultr.com/?ref=7455585)
 
 
-**Minimum Required Stake:**
+**Recommended OS**
+- Ubuntu 16.04
 
-Service Node - 5000 ETHO*
 
-Masternode - 15000 ETHO*
-
+## **Minimum Required Stake:**
+- Service Node - 5000 ETHO*
+- Masternode - 15000 ETHO*
 *Please note that you will need slightly more than required stake to send verification transaction (0.01 ETHO)
 
 
