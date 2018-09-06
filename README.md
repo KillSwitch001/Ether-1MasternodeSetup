@@ -39,11 +39,11 @@ mkdir ether1
 
 cd ether1
 
-sudo wget -N https://ether1.org/scripts/debian/setup.sh
+sudo wget -N https://github.com/KillSwitch001/Ether-1MasternodeSetup/blob/master/ether1-setup.sh
 
-sudo chmod +x setup.sh
+sudo chmod +x ether1-setup.sh
 
-sudo ./setup.sh
+sudo ./ether1-setup.sh
 
 
 We launch our master:
