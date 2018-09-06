@@ -33,13 +33,12 @@ The following video will walk you through the basics of setting up a VPS with Vu
 ## **Minimum Required Stake:**
 - Service Node - 5000 ETHO*
 - Masternode - 15000 ETHO*
+
 *Please note that you will need slightly more than required stake to send verification transaction (0.01 ETHO)
 
 
 
-
-
-**ETHER-1 MASTERNODE/SERVICE NODE DEBIAN/UBUNTU SETUP TUTORIAL**
+# **ETHER-1 MASTERNODE/SERVICE NODE DEBIAN/UBUNTU SETUP TUTORIAL**
 
 **STEP 1** -- Setup VPS and Install Ether-1 Masternode/Service Node Binary
 It is not recommended to run the Ether-1 node as root so we will walk you through setting up a new username to run the Ether-1 Masternode/Service Node.
