@@ -10,7 +10,6 @@ VPS is cheaper to rent from the provider artdoe.gq/vps . The method of rechargin
 
 Our option is the VPS for $ 5 per month, this will be quite enough for our master.
 
-Вкладка "pricing"
 Next, we choose any shower location, Ubuntu OS 16.04 x64 , register the host name and the server name "ether1" at # 7.
 
 Click Deploy Now and look forward to installing VPS.
