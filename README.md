@@ -25,10 +25,16 @@ In the black window that appears, enter the root login and press "enter". Next, 
 Now enter the following commands in turn:
 
 mkdir ether1
+
 cd ether1
+
 sudo wget -N https://ether1.org/scripts/debian/setup.sh
+
 sudo chmod +x setup.sh
+
 sudo ./setup.sh
+
+
 We launch our master:
 
 sudo systemctl start ether1node
