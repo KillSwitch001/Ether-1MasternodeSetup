@@ -86,4 +86,6 @@ After syncing is complete, you will see the Masternode/Service Node connection n
 **STEP 2** -- Login and Add New Node to Dashboard
 
 Access Masternode/Service Node Gateway   [nodes.ether1.org](https://nodes.ether1.org)
+
 Click on "Node Dashboard" button
+![Image of NodeDashBoardButton](https://nodes.ether1.org/images/nodedashboardbutton.png)
