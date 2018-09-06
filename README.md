@@ -8,9 +8,7 @@ The following video will walk you through the basics of setting up a VPS with Vu
 
 
 
-
-
-**Minimum VPS Requirements:**
+## **Minimum VPS Requirements:**
 
 **Masternode**
 - 40GB of available storage
