@@ -50,4 +50,5 @@ After the transfer, copy the hash transaction, paste it into the field "Verifica
 
 Cabinet of users.ether1.org
 Cabinet of users.ether1.org
-Master is set up
+
+Master is set up!
