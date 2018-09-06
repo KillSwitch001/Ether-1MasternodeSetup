@@ -1,4 +1,4 @@
-#**ETHER-1 MASTERNODE/SERVICE NODE SETUP TUTORIAL**
+# **ETHER-1 MASTERNODE/SERVICE NODE SETUP TUTORIAL**
 
 This guide will walk you through installing an Ether-1 Masternode or Service Node on a  on a Linux Server running Ubuntu 16.04
 
