@@ -136,8 +136,9 @@ If "Address Verified" fails, you will need to delete node and start over
 
 Congratulations! You have now setup a node. If you do not, please contact support and they will assist you.
 
+
 If you found this setup guide helpful...
 
 ...please donate Ether-1/ETHO to: 0xF46E2D0D6aEb0acf4e203BB07d9b76E0C8a106c0
 
--KillSwitch
+--KillSwitch
