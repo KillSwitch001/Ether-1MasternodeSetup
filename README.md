@@ -89,3 +89,30 @@ Access Masternode/Service Node Gateway   [nodes.ether1.org](https://nodes.ether1
 
 Click on "Node Dashboard" button
 ![Image of NodeDashBoardButton](https://nodes.ether1.org/images/nodedashboardbutton.png)
+Login With Your Email and Password
+
+Click on "Add Node" button
+![Image of AddNode](https://nodes.ether1.org/images/addnode.png)
+
+## **Enter Required Information:**
+
+**ETHO Address** -> This is the address where you hold your required ETHO node stake (5000 for Service Node or 15000 ETHO for Masternode)
+                     *Please note that you will need slightly more than required stake to send verification transaction (0.01 ETHO)
+                     
+**IP Address** -> This is the static/public ip address of the VPS running the Ether-1 Masternode/Service Node binary
+
+**Node Type** -> Select Masternode or Service Node
+
+Click "Add Node" button
+![Image of AddNode2](https://nodes.ether1.org/images/addnode2.png)
+
+
+**STEP 3** -- Verify Ownership/Stake/Active Node
+
+Click on "Details" of the newly added node
+![Image of Detailsclick](https://nodes.ether1.org/images/detailsclick.png)
+
+Make verification transaction to verify ETHO address ownership
+
+Send a small amount of ETHO (0.01 ETHO) from ETHO address used when node was added to the randomly generated "Verification Address" shown in node details
+                     *Please note that this small amount of ETHO will remain in the verification account and will not be recoverable until a future update*
