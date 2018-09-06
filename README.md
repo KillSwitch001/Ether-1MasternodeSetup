@@ -1,3 +1,5 @@
+![Image of Ether1Logo](https://github.com/Ether1Project/Ether-1-Branding/blob/master/PNG/Ether1_Logo_Icon.png?raw=true)
+
 # **ETHER-1 MASTERNODE/SERVICE NODE SETUP TUTORIAL**
 
 This guide will walk you through installing an Ether-1 Masternode or Service Node on a  on a Linux Server running Ubuntu 16.04
@@ -114,5 +116,22 @@ Click on "Details" of the newly added node
 
 Make verification transaction to verify ETHO address ownership
 
-Send a small amount of ETHO (0.01 ETHO) from ETHO address used when node was added to the randomly generated "Verification Address" shown in node details
-                     *Please note that this small amount of ETHO will remain in the verification account and will not be recoverable until a future update*
+Send a small amount of ETHO (0.01 ETHO) from ETHO address used when node was added to the randomly generated "Verification Address" shown in node details 
+
+*Please note that this small amount of ETHO will remain in the verification account and will not be recoverable until a future update*
+
+**DO NOT SEND YOUR ETHO STAKE TO THIS VERIFICATION ADDRESS!**
+![Image of VerifyAddress](https://nodes.ether1.org/images/verifyaddress.png)
+
+Copy TX hash from verification transaction and add to "Verification TX Hash" in node details
+![Image of VerifyTX](https://nodes.ether1.org/images/verifytx.png)
+
+Your node is verified when "Address Verified", "Stake Verified" and "Node Active" all show "Yes" for verified
+![Image of AllVerified](https://nodes.ether1.org/images/allverified.png)
+
+If "Stake Verified" or "Node Active" verifications fail, you can manually click "Verify"
+![Image of StakeFailedVerify](https://nodes.ether1.org/images/stakefailedverify.png)
+
+If "Address Verified" fails, you will need to delete node and start over
+
+Congratulations! You have now setup a node. If you do not, please contact support and they will assist you.
