@@ -2,12 +2,12 @@ Creating master [ETHO] Ether-1
 
 To create, we need:
 
-1) 5001 ETHO (servodna) or 15001 ETHO (masterwork)
+1) 5001 ETHO or 15001 ETHO (masterwork)
 
 2) VPS (or any PC with static IP and uptime 100%)
 
 
-Buy ETHO can be on the exchange stocks.exchange or namainit most on the pool .
+Buy ETHO can be on the exchange stocks.exchange or mine it on the pool .
 
 
 VPS is cheaper to rent from the provider artdoe.gq/vps . The method of recharging the balance for new users is a card and PayPal, subsequent payments can be made through Bitcoin.
