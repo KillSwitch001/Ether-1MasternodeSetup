@@ -1,4 +1,4 @@
-![Image of Ether1Logo](https://github.com/Ether1Project/Ether-1-Branding/blob/master/PNG/Ether1_Logo_Icon.png?raw=true)
+![Image of Ether1Logo](https://github.com/Ether1Project/Ether-1-Branding/blob/master/PNG/Ether1-128x128.png?raw=true)
 
 # **ETHER-1 MASTERNODE/SERVICE NODE SETUP TUTORIAL**
 
